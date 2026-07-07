@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/VedantGiri117/leetcode1/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/VedantGiri117/leetcode1/tree/master/0189-rotate-array) |
 | [0274-h-index](https://github.com/VedantGiri117/leetcode1/tree/master/0274-h-index) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/VedantGiri117/leetcode1/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 ## Two Pointers
 |  |
 | ------- |
