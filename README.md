@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/VedantGiri117/leetcode1/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/VedantGiri117/leetcode1/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/VedantGiri117/leetcode1/tree/master/0189-rotate-array) |
+| [0345-reverse-vowels-of-a-string](https://github.com/VedantGiri117/leetcode1/tree/master/0345-reverse-vowels-of-a-string) |
 ## Sorting
 |  |
 | ------- |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/VedantGiri117/leetcode1/tree/master/0013-roman-to-integer) |
 | [0058-length-of-last-word](https://github.com/VedantGiri117/leetcode1/tree/master/0058-length-of-last-word) |
+| [0345-reverse-vowels-of-a-string](https://github.com/VedantGiri117/leetcode1/tree/master/0345-reverse-vowels-of-a-string) |
 ## Tree
 |  |
 | ------- |
