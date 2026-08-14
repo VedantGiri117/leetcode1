@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/VedantGiri117/leetcode1/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/VedantGiri117/leetcode1/tree/master/0189-rotate-array) |
 | [0345-reverse-vowels-of-a-string](https://github.com/VedantGiri117/leetcode1/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/VedantGiri117/leetcode1/tree/master/0392-is-subsequence) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/VedantGiri117/leetcode1/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Sorting
 |  |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/VedantGiri117/leetcode1/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/VedantGiri117/leetcode1/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/VedantGiri117/leetcode1/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0392-is-subsequence](https://github.com/VedantGiri117/leetcode1/tree/master/0392-is-subsequence) |
 ## Greedy
 |  |
 | ------- |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/VedantGiri117/leetcode1/tree/master/0013-roman-to-integer) |
 | [0058-length-of-last-word](https://github.com/VedantGiri117/leetcode1/tree/master/0058-length-of-last-word) |
 | [0345-reverse-vowels-of-a-string](https://github.com/VedantGiri117/leetcode1/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/VedantGiri117/leetcode1/tree/master/0392-is-subsequence) |
 ## Tree
 |  |
 | ------- |
