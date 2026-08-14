@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/VedantGiri117/leetcode1/tree/master/0189-rotate-array) |
 | [0274-h-index](https://github.com/VedantGiri117/leetcode1/tree/master/0274-h-index) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/VedantGiri117/leetcode1/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/VedantGiri117/leetcode1/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/VedantGiri117/leetcode1/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Two Pointers
 |  |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/VedantGiri117/leetcode1/tree/master/0189-rotate-array) |
 | [0345-reverse-vowels-of-a-string](https://github.com/VedantGiri117/leetcode1/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/VedantGiri117/leetcode1/tree/master/0392-is-subsequence) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/VedantGiri117/leetcode1/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/VedantGiri117/leetcode1/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Sorting
 |  |
@@ -36,11 +38,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/VedantGiri117/leetcode1/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/VedantGiri117/leetcode1/tree/master/0169-majority-element) |
 | [0274-h-index](https://github.com/VedantGiri117/leetcode1/tree/master/0274-h-index) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/VedantGiri117/leetcode1/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Hash Table
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/VedantGiri117/leetcode1/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/VedantGiri117/leetcode1/tree/master/0169-majority-element) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/VedantGiri117/leetcode1/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Divide and Conquer
 |  |
 | ------- |
