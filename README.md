@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/VedantGiri117/leetcode1/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/VedantGiri117/leetcode1/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/VedantGiri117/leetcode1/tree/master/0169-majority-element) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/VedantGiri117/leetcode1/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/VedantGiri117/leetcode1/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/VedantGiri117/leetcode1/tree/master/0013-roman-to-integer) |
 | [0058-length-of-last-word](https://github.com/VedantGiri117/leetcode1/tree/master/0058-length-of-last-word) |
 | [0345-reverse-vowels-of-a-string](https://github.com/VedantGiri117/leetcode1/tree/master/0345-reverse-vowels-of-a-string) |
@@ -139,4 +141,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/VedantGiri117/leetcode1/tree/master/0024-swap-nodes-in-pairs) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/VedantGiri117/leetcode1/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
