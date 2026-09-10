@@ -1,4 +1,6 @@
 class Solution {
+    // greedy Algorithm is best
+    //odd even to move forward and backward (not really traversing backward)
     public int maxJump(int[] stones) {
         int mSize = stones[1] - stones[0];
         for(int i = 2 ; i < stones.length ; i++){
