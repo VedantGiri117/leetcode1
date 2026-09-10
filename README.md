@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/VedantGiri117/leetcode1/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/VedantGiri117/leetcode1/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/VedantGiri117/leetcode1/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2498-frog-jump-ii](https://github.com/VedantGiri117/leetcode1/tree/master/2498-frog-jump-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/VedantGiri117/leetcode1/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/VedantGiri117/leetcode1/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/VedantGiri117/leetcode1/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [2498-frog-jump-ii](https://github.com/VedantGiri117/leetcode1/tree/master/2498-frog-jump-ii) |
 ## Counting Sort
 |  |
 | ------- |
@@ -150,4 +152,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/VedantGiri117/leetcode1/tree/master/0003-longest-substring-without-repeating-characters) |
+## Binary Search
+|  |
+| ------- |
+| [2498-frog-jump-ii](https://github.com/VedantGiri117/leetcode1/tree/master/2498-frog-jump-ii) |
 <!---LeetCode Topics End-->
