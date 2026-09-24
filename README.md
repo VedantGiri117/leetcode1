@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-max-number-of-k-sum-pairs](https://github.com/VedantGiri117/leetcode1/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/VedantGiri117/leetcode1/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2498-frog-jump-ii](https://github.com/VedantGiri117/leetcode1/tree/master/2498-frog-jump-ii) |
+| [3193-count-the-number-of-inversions](https://github.com/VedantGiri117/leetcode1/tree/master/3193-count-the-number-of-inversions) |
 ## Two Pointers
 |  |
 | ------- |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/VedantGiri117/leetcode1/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0392-is-subsequence](https://github.com/VedantGiri117/leetcode1/tree/master/0392-is-subsequence) |
 | [0403-frog-jump](https://github.com/VedantGiri117/leetcode1/tree/master/0403-frog-jump) |
+| [3193-count-the-number-of-inversions](https://github.com/VedantGiri117/leetcode1/tree/master/3193-count-the-number-of-inversions) |
 ## Greedy
 |  |
 | ------- |
